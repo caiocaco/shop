@@ -1,0 +1,163 @@
+{
+  "products": [],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Eletrônicos & Gadgets",
+      "slug": "eletronicos-gadgets",
+      "description": "Fones, relógios inteligentes, projetores e acessórios tech que bombaram.",
+      "image_url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=600&q=80",
+      "icon": "Smartphone",
+      "status": "published",
+      "sort_order": 1,
+      "created_at": "2026-09-12T11:14:58.003Z",
+      "updated_at": "2026-09-12T11:14:58.003Z"
+    },
+    {
+      "id": "cat-2",
+      "name": "Beleza & Cuidados",
+      "slug": "beleza-cuidados",
+      "description": "Skincare, maquiagem viral, massageadores faciais e cuidados pessoais.",
+      "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80",
+      "icon": "Sparkles",
+      "status": "published",
+      "sort_order": 2,
+      "created_at": "2026-09-14T11:14:58.003Z",
+      "updated_at": "2026-09-14T11:14:58.003Z"
+    },
+    {
+      "id": "cat-3",
+      "name": "Casa & Cozinha Inteligente",
+      "slug": "casa-cozinha-inteligente",
+      "description": "Utilitários práticos, organizadores e gadgets para facilitar sua rotina.",
+      "image_url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+      "icon": "Home",
+      "status": "published",
+      "sort_order": 3,
+      "created_at": "2026-09-17T11:14:58.003Z",
+      "updated_at": "2026-09-17T11:14:58.003Z"
+    },
+    {
+      "id": "cat-4",
+      "name": "Moda & Acessórios",
+      "slug": "moda-acessorios",
+      "description": "Bolsas, óculos de sol, joias minimalistas e roupas da moda do TikTok.",
+      "image_url": "https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?auto=format&fit=crop&w=600&q=80",
+      "icon": "ShoppingBag",
+      "status": "published",
+      "sort_order": 4,
+      "created_at": "2026-09-22T11:14:58.003Z",
+      "updated_at": "2026-09-22T11:14:58.003Z"
+    },
+    {
+      "id": "cat-5",
+      "name": "Achadinhos Virais",
+      "slug": "achadinhos-virais",
+      "description": "Itens inovadores que alcançaram milhões de visualizações e você precisa ter.",
+      "image_url": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=600&q=80",
+      "icon": "Flame",
+      "status": "published",
+      "sort_order": 5,
+      "created_at": "2026-09-27T11:14:58.003Z",
+      "updated_at": "2026-09-27T11:14:58.003Z"
+    }
+  ],
+  "clicks": [],
+  "settings": {
+    "store_name": "Achados do TikTok Shop",
+    "tagline": "Os melhores achadinhos e tendências do TikTok Shop com desconto exclusivo",
+    "logo_url": "/src/assets/images/logo_achados_1791805418762.jpg",
+    "favicon_url": "/src/assets/images/logo_achados_1791805418762.jpg",
+    "primary_color": "#f59e0b",
+    "secondary_color": "#0f172a",
+    "button_color": "#f59e0b",
+    "background_color": "#f8fafc",
+    "text_color": "#0f172a",
+    "card_radius": "rounded-2xl",
+    "hero_banner_title": "Achados do TikTok Shop",
+    "hero_banner_subtitle": "Descubra os produtos mais recomendados e testados por criadores com as melhores ofertas e cupons da plataforma.",
+    "hero_banner_image": "/src/assets/images/hero_achados_1791805439218.jpg",
+    "hero_banner_cta": "Explorar Catálogo",
+    "hero_banner_enabled": true,
+    "featured_section_title": "⭐ Destaques da Semana",
+    "featured_section_enabled": true,
+    "most_clicked_section_title": "🔥 Mais Clicados no TikTok Shop",
+    "most_clicked_section_enabled": true,
+    "recent_section_title": "✨ Lançamentos e Recentes",
+    "recent_section_enabled": true,
+    "items_per_section": 8,
+    "header_links": [
+      {
+        "label": "Início",
+        "url": "/"
+      },
+      {
+        "label": "Catálogo",
+        "url": "/catalogo"
+      },
+      {
+        "label": "Mais Clicados",
+        "url": "/catalogo?sort=popularity"
+      },
+      {
+        "label": "Destaques",
+        "url": "/catalogo?featured=true"
+      }
+    ],
+    "footer_text": "© 2026 TokShop Achadinhos. Todos os direitos reservados. Não somos uma loja oficial do TikTok, apenas curadores afiliados autorizados.",
+    "affiliate_disclaimer": "Transparência: Este site contém links de afiliado do TikTok Shop. Ao clicar e concluir uma compra na loja parceira, podemos receber uma comissão sem qualquer custo adicional para você. Os preços e estoques são definidos diretamente pelo TikTok Shop e seus vendedores parceiros.",
+    "social_links": {
+      "instagram": "https://instagram.com/tokshop.achadinhos",
+      "tiktok": "https://tiktok.com/@tokshop.achadinhos",
+      "whatsapp": "https://wa.me/5511999999999",
+      "youtube": "https://youtube.com"
+    },
+    "seo_title": "TokShop - Os Melhores Achadinhos e Afiliados do TikTok Shop",
+    "seo_description": "Encontre os melhores produtos virais, eletrônicos, cosméticos e utilidades domésticas testados no TikTok com links de afiliado oficiais.",
+    "seo_keywords": "achadinhos tiktok shop, produtos virais, afiliados tiktok, compras tiktok, gadgets, ofertas",
+    "contact_email": "contato@tokshop.com.br"
+  },
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "email": "admin@tokshop.com",
+      "password_hash": "3ba2fb10da335f772e3be038bdca4bbc4ced334d5915173a920f04acbf5b4ce0",
+      "name": "Administrador TokShop",
+      "session_token": "94d3b4c7f85c5755ef3768f9b1715b8a12e4f32db4d79e91283d49ba7ce1fa2f"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-1791804906868-q5gtx",
+      "user_email": "admin@tokshop.com",
+      "action": "Login Administrativo",
+      "entity_type": "auth",
+      "details": "Usuário admin@tokshop.com realizou login no painel.",
+      "created_at": "2026-10-12T11:35:06.868Z"
+    },
+    {
+      "id": "act-1791803713279-nvvw2",
+      "user_email": "admin@tokshop.com",
+      "action": "Login Administrativo",
+      "entity_type": "auth",
+      "details": "Usuário admin@tokshop.com realizou login no painel.",
+      "created_at": "2026-10-12T11:15:13.279Z"
+    },
+    {
+      "id": "act-1",
+      "user_email": "admin@tokshop.com",
+      "action": "Configuração Inicial da Loja",
+      "entity_type": "settings",
+      "details": "Loja TokShop configurada com identidade visual e categorias padrão.",
+      "created_at": "2026-09-28T11:14:58.005Z"
+    },
+    {
+      "id": "act-2",
+      "user_email": "admin@tokshop.com",
+      "action": "Cadastro de Produtos",
+      "entity_type": "product",
+      "details": "8 produtos virais do TikTok Shop cadastrados e publicados.",
+      "created_at": "2026-10-02T11:14:58.005Z"
+    }
+  ]
+}

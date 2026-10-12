@@ -1,0 +1,6 @@
+{
+  "name": "TokShop - Marketplace de Achadinhos e Afiliados TikTok Shop",
+  "description": "Marketplace moderno de produtos afiliados TikTok Shop com catálogo dinâmico, rastreamento de cliques e painel administrativo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
